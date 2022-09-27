@@ -1,0 +1,17 @@
+GET http://localhost:5000/
+
+###
+
+GET http://localhost:5000/19110335/19110335
+
+###
+POST http://localhost:5000/19110335/19110489 => copy data and create POST request
+
+###
+GET http://localhost:5000/message
+
+###
+
+GET http://localhost:5000/message/19110335
+
+###
