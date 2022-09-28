@@ -1,8 +1,14 @@
 ## Chạy câu lệnh sau để tạo project:
-`npm init`
+```
+npm init
+```
 
 ## Cài đặt express 
-`npm install express --save`
+```
+npm install express --save
+```
 
 ## Run project
-`node index.js`
+```
+node index.js
+```
